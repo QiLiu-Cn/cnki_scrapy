@@ -1,0 +1,3 @@
+# cnki_scrapy
+Scrapy_cnki是根据检索条件进行论文相关信息的下载；
+download是根据前面检索的条件进行论文的下载。
